@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.40",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "fc2d1e00-ac9d-4a0c-bdad-e3c86fe7f1c5",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "welfareOpenServer_exchange_item"
+  }
+}
